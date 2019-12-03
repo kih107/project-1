@@ -1,4 +1,3 @@
-```c
 #include <stdio.h>
 int main(void)
 {
@@ -8,4 +7,3 @@ int main(void)
 	printf("code test\n");
 	return 0;
 }
-```
